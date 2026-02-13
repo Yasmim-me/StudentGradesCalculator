@@ -48,3 +48,7 @@ Average Grade: 90.0
 Create a JUnit Test Script: StudentTest.java This JUnit test script contains test cases to validate the functionality of the Student class's methods. 
 In addation the script will contains several test cases that evaluate the getAverageGrade method under different scenarios, 
 including cases with valid and empty grades arrays. 
+
+Create a JUnit Test Script: StudentTest.java
+- This JUnit test script contains test cases to validate the functionality of the Student class's methods. 
+- In addation the script will contains several test cases that evaluate the getAverageGrade method under different scenarios, including cases with valid and empty grades arrays.
